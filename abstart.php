@@ -1,11 +1,6 @@
-<!doctype html>
-<html lang = "en">
-<head> 
-	<meta charset="utf-8">
-	<title>Lab 05 – The Spitfire Grill</title>
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
+<?php include "inc/html-top.php"; ?>
 <body>
+<?php include "inc/nav.php"; ?>
 
 <header>
 	<h1>The Spitfire Grill</h1>

@@ -1,12 +1,6 @@
-<!doctype html>
-
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Lab 05 - Hollow Knight</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "inc/html-top.php"; ?>
 <body>
+<?php include "inc/nav.php"; ?>
 	<header>
 		<h1>Hollow Knight</h1>
 		<div>A metroidvania video game</div>

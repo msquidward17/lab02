@@ -1,12 +1,6 @@
-<!doctype html>
-<html>
-<head> 
-	<meta charset="utf-8">
-	<title>Lab 05 – Dead Poets Society</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "inc/html-top.php"; ?>
 <body>
-
+<?php include "inc/nav.php"; ?>
 <header>
 	<h1>Dead Poets Society</h1>
 	<div>Seize the day</div>
