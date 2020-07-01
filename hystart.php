@@ -15,7 +15,7 @@
 	<article>
 		<h2>About Hollow Knight</h2>
 		
-		<p><strong>Hollow Knight</strong> is a 2D side-scrolling action adventure video game in the Metroidvania style. It was developed by Team Cherry and released for Microsoft Windows, macOS, Linux, the Nintendo Switch, Xbox One and PlayStation.  Development was partially funded through a Kickstarter crowdfunding campaign, raising over $57,000 by the end of 2014. </p>
+		<p>Hollow Knight is a 2D side-scrolling action adventure video game in the Metroidvania style. It was developed by Team Cherry and released for Microsoft Windows, macOS, Linux, the Nintendo Switch, Xbox One and PlayStation.  Development was partially funded through a Kickstarter crowdfunding campaign, raising over $57,000 by the end of 2014. </p>
 		
 		<p>At the game's outset, the player character, the Knight, arrives in Dirtmouth, a small town above Hallownest's ruins, seeking to venture within. The game tells the story of a knight on a quest to uncover the secrets of the long-abandoned insect kingdom, Hallownest, whose haunting depths draw in the adventurous and brave with promises of treasures and answers to ancient mysteries. </p>
 		
@@ -23,7 +23,7 @@
 		
 		<figure>
 		<img src="images/promo.jpg" alt="promo pic">
-		<figcaption>A promo picture of Hollow Knight</figcaption>
+		<figcaption class="hy">A promo picture of Hollow Knight</figcaption>
 		</figure>
 		
 		<h2>Gameplay</h2>
@@ -43,7 +43,7 @@
 		
 		<figure>
 		<img src="images/grimm.jpg" alt="grimm update poster">
-		<figcaption>Poster for the Grimm Trope expansion</figcaption>
+		<figcaption class="hy">Poster for the Grimm Trope expansion</figcaption>
 		</figure>
 
 		<p>Lifeblood is the third free content pack to Hollow Knight. It was officially released on 20 April, 2018. As it was not one of the three originally planned content packs, it did not release with a teaser. Lifeblood focused mainly on enhancing technical aspects of the game, bringing upgrades and optimizations of various kinds. </p>
