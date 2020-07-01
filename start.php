@@ -18,7 +18,7 @@
 	<figure>
 	
 		<img src="images/dpsposter.jpg" alt="Dead Poets Society poster">
-		<figcaption>Dead Poets Society poster</figcaption>
+		<figcaption class="st">Dead Poets Society poster</figcaption>
 		
 	</figure>
 	
@@ -31,7 +31,7 @@
 	<figure>
 	
 		<img src="images/dpsimage.jpg" alt="Dead Poets Society image">
-		<figcaption>Dead Poets Society image</figcaption>
+		<figcaption class="ab">Dead Poets Society image</figcaption>
 		
 	</figure>
 	

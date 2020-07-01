@@ -16,7 +16,7 @@
 	<h2>Synopsis: Act 1</h2>
 	<figure>
 		<img src = "images/spitfire.jpg" alt = "The Spitfire Grill">
-		<figcaption>Original cast recording of The Spitfire Grill</figcaption>
+		<figcaption class="ab">Original cast recording of The Spitfire Grill</figcaption>
 	</figure>
 	<p>Rural Wisconsin. February. A young woman named Percy Talbott (played by Libby Belitsos) gazes out the window of her prison cell. She's about to be released. In her pocket is a photograph clipped from a travel book. The caption reads, “Autumn colors along Copper Creek near Gilead, Wisconsin”. ("A Ring Around the Moon") Arriving in Gilead, Percy reports to the local Sheriff, Joe Sutter (played by Zak Kline). He leads her through the deserted streets to a ramshackle diner called the Spitfire Grill, run by a crusty old widow, Hannah Ferguson (played by Sylvie Williams), who has a bad hip and sharp tongue. Joe persuades Hannah to take Percy on board and give her work as a waitress.</p>
 
@@ -38,7 +38,7 @@
 	<h2>History</h2>
 	<figure>
 		<img src="images/authors.jpg" alt = "Authors of the Spitfire Grill">
-		<figcaption>Authors of the Spitfire Grill</figcaption>
+		<figcaption class="ab">Authors of the Spitfire Grill</figcaption>
 	</figure>
 	<p>Authors James Valcq and Fred Alley had been friends since high school music camp in 1980, but it wasn’t until 1994 that they collaborated on The Passage for Alley's American Folklore Theatre in Wisconsin. New York-based Valcq was seeking a follow-up project for the pair after his Zombies from The Beyond closed Off-Broadway in 1995. They wanted to create a piece of populist theatre with elements of myth and folktale. Upon seeing the film The Spitfire Grill, they had found their vehicle. Actual writing of the musical commenced in October 1999.</p>
 
