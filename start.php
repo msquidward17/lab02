@@ -3,7 +3,7 @@
 <?php include "inc/nav.php"; ?>
 <header>
 	<h1>Dead Poets Society</h1>
-	<div>Seize the day</div>
+	<div class="sub">Seize the day</div>
 </header>
 
 <article>
@@ -137,6 +137,6 @@
 	<p>The content in this page comes from the <a href = "https://en.wikipedia.org/wiki/Dead_Poets_Society" target = _blank>Dead Poets Society WikiPedia page</a> and the <a href = "https://en.wikiquote.org/wiki/Dead_Poets_Society" target = _blank> Dead Poets Society WikiQuote page.</a> This webpage, by Molly C. Kilian</p>
 	
 </footer>
-
+<?php include "inc/scripts.php";?>
 </body>
 </html>
