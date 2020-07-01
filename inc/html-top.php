@@ -4,4 +4,5 @@
 	<meta charset="utf-8">
 	<title>Lab 02 – DC</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>

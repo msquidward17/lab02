@@ -3,7 +3,7 @@
 <?php include "inc/nav.php"; ?>
 	<header>
 		<h1>Hollow Knight</h1>
-		<div>A metroidvania video game</div>
+		<div class="sub">A metroidvania video game</div>
 	</header>
 
 	<article>
@@ -95,6 +95,6 @@
 		<div>From <a href="https://en.wikipedia.org/wiki/Hollow_Knight" target="_blank">Wikipedia: Hollow Knight</a> and <a href="https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki" target="_blank">Hollow Knight Wiki</a>. </div>
 		
 	</footer>
-
+<?php include "inc/scripts.php";?>
 </body>
 </html>

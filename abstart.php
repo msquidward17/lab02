@@ -4,7 +4,7 @@
 
 <header>
 	<h1>The Spitfire Grill</h1>
-	<div>The Musical</div>
+	<div class="sub">The Musical</div>
 </header>
 
 <article>
@@ -109,6 +109,6 @@
 		<li><a href = "https://www.youtube.com/watch?v=6dYK9mw2xIU&list=PLMHLcWZUXlEOQXqtgP0_ZKqepnTrYYoy9&index=1" target="_blank">https://www.youtube.com/watch?v=6dYK9mw2xIU&list=PLMHLcWZUXlEOQXqtgP0_ZKqepnTrYYoy9&index=1</a></li>
 	</ul>
 </footer>
-
+<?php include "inc/scripts.php";?>
 </body>
 </html>
