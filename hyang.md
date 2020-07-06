@@ -10,6 +10,7 @@ At the game's outset, the player character, the Knight, arrives in Dirtmouth, a 
 A sequel to the game, Hollow Knight: Silksong, is currently in development and is set to be released on Microsoft Windows, Mac, Linux and Nintendo Switch. Team Cherry had previously planned this game as a piece of downloadable content. Kickstarter backers of Hollow Knight will also receive Silksong for free when it is released.
 
 ![A promo picture of Hollow Knight](http://csc174.org/lab02/DC/images/promo.jpg "promo")
+
 A promo picture of Hollow Knight
 ## _Gameplay_
 Players explore the large interconnected world of Hallownest using a variety of movement and combat techniques. In classic Metroidvania style, there are areas of the world that the player cannot access until they obtain particular items or abilities. Maps for each area must be bought from the cartographer, and the player can also buy upgrades that allow them to reveal parts of the map as they explore.
@@ -23,6 +24,7 @@ Hidden Dreams is the first of the four free content packs for Hollow Knight. It 
 The Grimm Troupe is the second of the four free content packs for Hollow Knight. It was released on the 26th of October, 2017. In this expansion, a mysterious group of circus performers known as the Grimm Troupe arrives in Dirtmouth. Their leader, Troupe Master Grimm, asks the Knight to take part in a "twisted ritual.” Eventually the Knight must choose to either complete the ritual by fighting Nightmare King Grimm, or to banish the Troupe from Hallownest.
 
 ![Poster for the Grimm Trope expansion](http://csc174.org/lab02/DC/images/grimm.jpg "poster")
+
 Poster for the Grimm Trope expansion
 
 Lifeblood is the third free content pack to Hollow Knight. It was officially released on 20 April, 2018. As it was not one of the three originally planned content packs, it did not release with a teaser. Lifeblood focused mainly on enhancing technical aspects of the game, bringing upgrades and optimizations of various kinds.
