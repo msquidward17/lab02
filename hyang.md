@@ -44,31 +44,31 @@ Godmaster, previously named Gods & Glory, is the fourth and last free content pa
 ### **Wanderers — NPCs encountered in several locations and wander around Hallownest**
 Cloth
 
--Stay alive and let's meet again on the road ahead.
+- Stay alive and let's meet again on the road ahead.
 
 Tiso
 
--The perfect challenge. I can already taste my victory...
+- The perfect challenge. I can already taste my victory...
 
 Zote
 
--Know this, cur. I am Zote the Mighty, a knight of great renown.
+- Know this, cur. I am Zote the Mighty, a knight of great renown.
 
 Quirrel
 
--What is this feeling?... So familiar. Drawn forward yet repelled.
+- What is this feeling?... So familiar. Drawn forward yet repelled.
 
 Hornet
 
--I know what you are. I know what you'd try to do. I can't allow it.
+- I know what you are. I know what you'd try to do. I can't allow it.
 
 Bretta
 
--Ohhh... please... don't leave me behind!
+- Ohhh... please... don't leave me behind!
 
 The Grimm Troupe
 
--Burn the father, feed the child.
+- Burn the father, feed the child.
 
 ## _Citations_
 
